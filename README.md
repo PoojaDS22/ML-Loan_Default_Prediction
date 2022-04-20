@@ -29,7 +29,7 @@ I used a bank dataset that can be found in "Loan Default DataSet" Folder
 
 Dataset has total 8 csv files. 
 
-To get more understanding of database please read the "Dataset Details" pdf from "Loan Default DataSet" Folder
+To get more understanding of database please read the "Dataset Detail Information" pdf from "Loan Default DataSet" Folder
 
 ## Installation
 This project requires Python and the following Python libraries installed:
