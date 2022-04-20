@@ -45,10 +45,10 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 
 ## Loan Default Prediction Project Life Cycle
-<img scr = "ML_Roadmap1.jpg">
+<img src = "ML_Roadmap1.jpg">
 
 ## Loan Default Prediction Project Process
-<img scr = "ML_Roadmap1.jpg">
+<img src = "ML_Roadmap2.jpg">
 
 
 ## Contact
